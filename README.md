@@ -12,7 +12,7 @@
 ![JeelGajera's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeelGajera&theme=great-gatsby&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧰 Languages and Tools:
+### ⚙ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
