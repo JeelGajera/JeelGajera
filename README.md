@@ -6,7 +6,7 @@
 <!-- - 🤔 I’m looking for help with  -->
 - 🌱 I’m currently learning python
 - 💬 Ask me about WebDevlopment related stuff
-- 📫 How to reach me: Twitter - @JeelGajera07
+- 📫 How to reach me: https://www.jeelgajera.live
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love to listen music with work.
 
