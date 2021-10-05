@@ -2,9 +2,9 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning python
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
+- 🌱 I’m currently learning python
 - 💬 Ask me about WebDevlopment related stuff
 - 📫 How to reach me: Twitter - @JeelGajera07
 - 😄 Pronouns: He/his
