@@ -6,6 +6,7 @@
  4.   😄  Pronouns: He/his
  5.   ⚡  Fun fact: I love to listen music with work
 
+![](https://komarev.com/ghpvc/?username=your-github-JeelGajera)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>![Jeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeelGajera&theme=great-gatsby&show_icons=true)<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelGajera&theme=great-gatsby" alt="mystreak"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -24,6 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![MARKDOWN](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=MARKDOWN)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
