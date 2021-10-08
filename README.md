@@ -1,10 +1,9 @@
 ### ***Hola, I'm Jeel Gajera!***  👋
-
- 1.   🌱  I’m currently learning python
- 2.   💬  Ask me about WebDevlopment related stuff
- 3.   📫  How to reach me:  [🌐](https://www.jeelgajera.live/)
- 4.   😄  Pronouns: He/his
- 5.   ⚡  Fun fact: I love to listen music with work
+🌱  I’m currently learning python \
+💬  Ask me about WebDevlopment related stuff \
+📫  How to reach me:  [🌐](https://www.jeelgajera.live/) \
+😄  Pronouns: He/his \
+⚡  Fun fact: I love to listen music with work 
 
 ![](https://komarev.com/ghpvc/?username=your-github-JeelGajera)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>![Jeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeelGajera&theme=great-gatsby&show_icons=true)<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
