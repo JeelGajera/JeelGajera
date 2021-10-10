@@ -30,3 +30,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Pycharm](https://img.shields.io/badge/Pycharm-05122A?style=flat&logo=pycharm)
+![Google Anylitics](https://img.shields.io/badge/Google-anylitics-05122A?style=flat&logo=google-anylitics)
