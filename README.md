@@ -5,14 +5,14 @@
 😄  Pronouns: He/his \
 ⚡  Fun fact: I love to listen music with work 
 
-![](https://komarev.com/ghpvc/?username=your-github-JeelGajera)
+![](https://komarev.com/ghpvc/?username=your-github-JeelGajera) ![Twitter Follow](https://img.shields.io/twitter/follow/enisoter_jg?&style=social)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>![Jeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeelGajera&theme=great-gatsby&show_icons=true)<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelGajera&theme=great-gatsby" alt="mystreak"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![JeelGajera's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeelGajera&theme=great-gatsby&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⚙ Languages and Tools:
+### ⚙ Technologies, Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
