@@ -1,7 +1,7 @@
 ### ***Hola, I'm Jeel Gajera!***  👋
 🌱  I’m currently learning python \
 💬  Ask me about WebDevlopment related stuff \
-📫  How to reach me:  [🌐](https://www.jeelgajera.live/) \
+📫  How to reach me:  [🌐](https://jeelgajera.vercel.app/) \
 😄  Pronouns: He/his \
 ⚡  Fun fact: I love to listen music with work 
 
