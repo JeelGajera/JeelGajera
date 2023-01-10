@@ -1,11 +1,11 @@
 ### ***Hola, I'm Jeel Gajera!***  👋
 🌱  I’m currently learning python \
 💬  Ask me about WebDevlopment related stuff \
-📫  How to reach me:  [🌐](https://jeelgajera.vercel.app/) \
+📫  How to reach me:  [🌐](https://jeelgajera.vercel.app/) 👈\
 😄  Pronouns: He/his \
 ⚡  Fun fact: I love to listen music with work 
 
-![](https://komarev.com/ghpvc/?username=your-github-JeelGajera) ![Twitter Follow](https://img.shields.io/twitter/follow/enisoter_jg?&style=social)
+![](https://komarev.com/ghpvc/?username=your-github-JeelGajera) ![Twitter Follow](https://img.shields.io/twitter/follow/_jeelgajera?&style=social)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>![Jeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeelGajera&theme=great-gatsby&show_icons=true)<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelGajera&theme=great-gatsby" alt="mystreak"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
