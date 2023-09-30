@@ -14,6 +14,7 @@
 - 📫 How to reach me **https://jeelgajera.vercel.app/contact**
 
 - ⚡ Fun fact **I love music with keyboard**
+- 🎵 Part time fun [audio.com/jeel](https://audio.com/jeel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
