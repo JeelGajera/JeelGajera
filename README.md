@@ -34,3 +34,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![JeelGajera's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeelGajera&theme=great-gatsby&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+[![An image of @jeelgajera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeelgajera)](https://holopin.io/@jeelgajera)
