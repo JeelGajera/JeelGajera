@@ -6,13 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeelgajera&label=Profile%20views&color=0e75b6&style=flat" alt="jeelgajera" /> </p>
 
 - 🌱 I’m currently learning **ML, TensorFlow**
-
 - 👨‍💻 All of my projects are available at [https://jeelgajera.vercel.app/portfolio](https://jeelgajera.vercel.app/portfolio)
-
-- 💬 Ask me about **MERN, FLutter**
-
 - 📫 How to reach me **https://jeelgajera.vercel.app/contact**
-
 - ⚡ Fun fact **I love music with keyboard**
 - 🎵 Part time fun [audio.com/jeel](https://audio.com/jeel)
 
