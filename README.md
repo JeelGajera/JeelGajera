@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **ML, TensorFlow**
 - ⚡ Fun fact **I love music with keyboard**
+- 📫 Contact: gajerajeel03@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
