@@ -18,12 +18,35 @@
   <a href="https://codepen.io/enisoter_jg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="enisoter_jg" height="30" width="40" /></a>
 </p>
 
+---
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p align="center">
+        <img
+          src="https://github-readme-stats-delta-virid-82.vercel.app/api?username=JeelGajera&theme=highcontrast&show_icons=true"
+          width="100%"
+        />
+      </p>
+      <p align="center">
+        <img
+          src="https://github-readme-streak-stats-vijaypur.vercel.app?user=JeelGajera&theme=dark"
+          width="100%"
+        />
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <p align="center">
+        <img
+          src="https://github-readme-stats-delta-virid-82.vercel.app/api/top-langs/?username=JeelGajera&theme=highcontrast&layout=donut-vertical&langs_count=12"
+          height="100%"
+        />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>![Jeel's GitHub stats](https://github-readme-stats-delta-virid-82.vercel.app/api?username=JeelGajera&theme=highcontrast&show_icons=true)<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=JeelGajera&theme=dark)](https://git.io/streak-stats)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![JeelGajera's Top Langs](https://github-readme-stats-delta-virid-82.vercel.app/api/top-langs/?username=JeelGajera&theme=highcontrast&layout=compact&langs_count=12)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 
 [![An image of @jeelgajera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeelgajera)](https://holopin.io/@jeelgajera)
