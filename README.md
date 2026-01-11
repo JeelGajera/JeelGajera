@@ -20,7 +20,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>![Jeel's GitHub stats](https://github-readme-stats-delta-virid-82.vercel.app/api?username=JeelGajera&theme=highcontrast&show_icons=true)<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github-readme-stats-delta-virid-82.vercel.app/?user=JeelGajera&theme=highcontrast" alt="mystreak"/>
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=JeelGajera&theme=dark)](https://git.io/streak-stats)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![JeelGajera's Top Langs](https://github-readme-stats-delta-virid-82.vercel.app/api/top-langs/?username=JeelGajera&theme=highcontrast&layout=compact&langs_count=12)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
