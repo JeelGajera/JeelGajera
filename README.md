@@ -9,14 +9,14 @@
 - ⚡ Fun fact **I love music with keyboard**
 - 📫 Contact: gajerajeel03@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://gitlab.com/JeelGajera" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="jeelgajera" height="70" width="70" /></a>
 <a href="https://twitter.com/_jeelgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jeelgajera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeel-gajera-063970215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeel-gajera-063970215" height="30" width="40" /></a>
 <a href="https://kaggle.com/earthian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="earthian" height="30" width="40" /></a>
   <a href="https://codepen.io/enisoter_jg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="enisoter_jg" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ---
 <table>
