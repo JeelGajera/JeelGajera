@@ -114,16 +114,15 @@ I'm an engineer & learner who enjoys turning ideas into real systems — develop
 
 <br/><br/>
 
-<!-- filenames are set by yoshi389111/github-profile-3d-contrib on first run; swap below if it names them differently -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg"/>
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%"/>
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="640"/>
 </picture>
 
 <br/><br/>
 
-<img src="assets/metrics.svg" alt="metrics panel" width="100%"/>
+<img src="assets/metrics.svg" alt="metrics panel" width="480"/>
 
 </div>
 
