@@ -17,7 +17,7 @@ jobs:
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GH_REPO_TOKEN: ${{ secrets.GH_REPO_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_REPO_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & push
