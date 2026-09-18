@@ -42,8 +42,6 @@ Engineer and learner. I turn ideas into working systems — developer tools, AI 
 - 📂 [fold-file-manager](https://github.com/JeelGajera/fold-file-manager) — Android file manager that reads the real filesystem instead of the media index, with an encrypted vault and LAN sharing
 - 🔊 [audio-relay](https://github.com/JeelGajera/audio-relay) — Low-latency desktop → Android audio relay in Rust and Kotlin, playing through the phone's own Bluetooth device
 - 🦅 [hawklogger](https://github.com/JeelGajera/hawklogger) — Chrome extension that captures API traffic and copies clean bug reports as Markdown
-- 🔍 [price-poll](https://github.com/JeelGajera/price-poll) — Next.js price tracker for discovering products and monitoring deals
-- 🌐 [timezone-converter](https://github.com/JeelGajera/timezone-converter) — Shareable time-zone comparison tool for planning across cities and teams
 
 ---
 
@@ -53,6 +51,8 @@ Engineer and learner. I turn ideas into working systems — developer tools, AI 
 <summary><b>🌐 Web, Apps & Interfaces</b></summary>
 <br/>
 
+- 🔍 [price-poll](https://github.com/JeelGajera/price-poll) — Next.js price tracker for discovering products and monitoring deals
+- 🌐 [timezone-converter](https://github.com/JeelGajera/timezone-converter) — Shareable time-zone comparison tool for planning across cities and teams
 - 🔁 [peer2peer](https://github.com/JeelGajera/peer2peer) — Browser-based P2P file transfer and real-time chat application
 - 📚 [quanta-docs](https://github.com/JeelGajera/quanta-docs) — Polished MDX documentation site for QuantaJS, with production guides and interactive docs
 - 🎉 [trivenildce](https://github.com/JeelGajera/trivenildce) — Event website for Triveni LDCE 2K24 — Next.js, Keystatic, animations, contributor support
